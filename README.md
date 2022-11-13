@@ -1,8 +1,8 @@
 - 👋 Hola soy @Felipe Dulcey
-- 📕 Estoy estudiando ADSI en el SENA e
-- 📚 Ing. En automatica Industrial en la Universidad del Cauca
+- 📕 Estoy estudiando una Tecnologia en Analisis y Desarrollo deS istemas de Información
+- 📚 e Ing. En automatica Industrial en la Universidad del Cauca
 - 👀 Me interesa la programación web y móvil
-- 🌱 Actualmente estoy aprendiendo lenguaje Programminación
+- 🌱 Actualmente estoy aprendiendo lenguajes Programminación
 - 📫 Cómo contactarme: fdulcey@misena.edu.co fdulcey@unicauca.edu.co
 - 📞 3226178911
 
