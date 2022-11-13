@@ -2,6 +2,7 @@
 - 📕 Estoy estudiando una Tecnologia en Analisis y Desarrollo deS istemas de Información
 - 📚 e Ing. En automatica Industrial en la Universidad del Cauca
 - 👀 Me interesa la programación web y móvil
+- Manejo Tecnologias como:
 - 📕 HTML, CSS, JS, Java
 - 📘 Bootstrap
 - 📒 Git Hub
