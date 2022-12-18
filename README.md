@@ -7,7 +7,7 @@
 - 📘 Bootstrap
 - 📒 Git Hub, Mysql
 - 🌱 Actualmente estoy aprendiendo PHP, VUE
-- 📫 Cómo contactarme: fdulcey@misena.edu.co fdulcey@unicauca.edu.co
+- 📫 Cómo contactarme: fdulcey19@gmail.com fdulcey@unicauca.edu.co
 - 📞 3226178911
 
 <!---
