@@ -6,7 +6,7 @@
 - 📕 HTML, CSS, JS, Java, Node JS, React
 - 📘 Bootstrap
 - 📒 Git Hub, Mysql
-- 🌱 Actualmente estoy aprendiendo NEXT Y MONGO
+- 🌱 Actualmente estoy aprendiendo Next Y Mongo DB
 - 📫 Cómo contactarme: fdulcey19@gmail.com fdulcey@unicauca.edu.co
 - 📞 3226178911
 
