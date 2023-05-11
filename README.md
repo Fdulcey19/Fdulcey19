@@ -3,10 +3,10 @@
 - 📚 e Ing. En automatica Industrial en la Universidad del Cauca
 - 👀 Me interesa la programación web y móvil
 - Manejo Tecnologias como:
-- 📕 HTML, CSS, JS, Java
+- 📕 HTML, CSS, JS, Java, Node JS, React
 - 📘 Bootstrap
 - 📒 Git Hub, Mysql
-- 🌱 Actualmente estoy aprendiendo PHP, VUE
+- 🌱 Actualmente estoy aprendiendo NEXT Y MONGO
 - 📫 Cómo contactarme: fdulcey19@gmail.com fdulcey@unicauca.edu.co
 - 📞 3226178911
 
