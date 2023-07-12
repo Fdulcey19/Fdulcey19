@@ -5,8 +5,9 @@
 - Manejo Tecnologias como:
 - 📕 HTML, CSS, JS, Java, Node JS, React
 - 📘 Bootstrap
-- 📒 Git Hub, Mysql
-- 🌱 Actualmente estoy aprendiendo Next Y Mongo DB
+- 📒 Git Hub, Mysql, Mongo DB
+- 🎨 Adobe Ilustrator, Adobe XD, Figma
+- 🌱 Actualmente estoy aprendiendo Next Y Vue
 - 📫 Cómo contactarme: fdulcey19@gmail.com fdulcey@unicauca.edu.co
 - 📞 3226178911
 
