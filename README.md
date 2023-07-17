@@ -1,5 +1,5 @@
 - 👋 Hola soy @Felipe Dulcey
-- 📕 Estoy estudiando una Tecnologia en Analisis y Desarrollo deS istemas de Información
+- 📕 Estoy estudiando una Tecnologia en Analisis y Desarrollo de Sistemas de Información
 - 📚 e Ing. En automatica Industrial en la Universidad del Cauca
 - 👀 Me interesa la programación web y móvil
 - Manejo Tecnologias como:
